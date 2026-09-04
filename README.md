@@ -18,11 +18,18 @@ Each chapter folder contains:
 
 ## Running the models
 
-The Jupyter notebooks (`.ipynb`) can be viewed directly on GitHub.
+Each chapter includes direct links to run its qualitative and quantitative notebooks in Google Colab.
 
-To run and modify a model:
-1. Download the notebook or clone this repository.
-2. Open the notebook in Jupyter Notebook, JupyterLab, or Google Colab.
+### Run online
+
+1. Open the relevant chapter folder.
+2. Select the qualitative or quantitative Google Colab link.
+3. Run the notebook cells in order.
+
+### Run locally
+
+1. Download a notebook or clone this repository.
+2. Open the `.ipynb` file in Jupyter Notebook or JupyterLab.
 3. Run the cells in order.
 
 ## Note
